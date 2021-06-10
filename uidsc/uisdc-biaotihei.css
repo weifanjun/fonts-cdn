@@ -1,0 +1,11 @@
+/* font: uisdc-biaotihei @weifanjun
+
+来自优设的免费商用字体.
+Free commercial fonts from uidsc.
+
+ */
+@font-face {
+  font-family: 'uisdc-biaotihei';
+  src: 
+    url('./fonts/uisdc-biaotihei.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
