@@ -1,0 +1,11 @@
+/* font: zcool-wenyi @weifanjun
+
+来自站酷的免费商用字体.
+Free commercial fonts from Zcool.
+
+ */
+@font-face {
+  font-family: 'zcool-wenyi';
+  src: 
+    url('./fonts/zcool-wenyi.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}

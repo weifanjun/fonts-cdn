@@ -1,0 +1,11 @@
+/* font: zcool-kuhei @weifanjun
+
+来自站酷的免费商用字体.
+Free commercial fonts from Zcool.
+
+ */
+@font-face {
+  font-family: 'zcool-kuhei';
+  src: 
+    url('./fonts/zcool-kuhei.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
